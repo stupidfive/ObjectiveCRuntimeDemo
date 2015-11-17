@@ -1,3 +1,6 @@
 # Objective-C Runtime Demo
 
-Demos on uses of Objective-C runtime.
+Well commented demo on Objective-C runtime use cases. Featuring
+
+* Method swizzling
+* Associate object
